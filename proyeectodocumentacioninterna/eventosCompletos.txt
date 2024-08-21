@@ -1,0 +1,15 @@
+Fecha de informe: 21-08-2024, hora del informe: 17:40:54
+Numero de informe: 1
+Codigo: 4
+Nombre: Roberto
+Provincia: Alajuela
+Cantón: Upala
+Placa: ASD-123
+Nombre del Oficial: Carlos
+Numero de Parte: 777
+Nombre del Juzgado: Pedro
+Numero de Registro: 778990
+Estado: Completo
+Fecha: 21/08/2024
+Hora: 17:40:54
+Multa: 11500.0
